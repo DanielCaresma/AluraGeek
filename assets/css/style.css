@@ -1,0 +1,33 @@
+@import url("./variaveis.css");
+
+.app {
+    font-family: var(--fonte);
+}
+
+.cabecalho {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 2rem 10%;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+}
+
+.cabecalho__pesquisa {
+    background-color: #F5F5F5;
+    border-radius: 20px;
+    padding: 8px 16px;
+    margin-left: 32px;
+    width: 393px;
+}
+
+.cabecalho__login {
+    border: 1px solid #2A7AE4;
+    color: #2A7AE4;
+    padding: 16px;
+    text-align: center;
+    width: 180px;
+}

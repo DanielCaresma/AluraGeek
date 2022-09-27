@@ -1,0 +1,12 @@
+:root {
+    --azul: #2A7AE4;
+    --azul-claro: #EAF2FD;
+    --cinza: #E5E5E5;
+    --branco: #FFFFFF;
+
+    --fonte: 'Raleway', sans-serif;
+
+    --peso-padrao: 400;
+    --peso-medio: 500;
+    --peso-bold: 700;
+}
